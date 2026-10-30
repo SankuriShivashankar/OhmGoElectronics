@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 120" role="img" aria-labelledby="title">
+  <title id="title">OhmGo Electronics</title>
+  <rect width="360" height="120" rx="18" fill="#1c1a17"/>
+  <circle cx="60" cy="60" r="37" fill="#fbefc7"/>
+  <path d="M37 60h14l9-18 12 36 9-18h14" fill="none" stroke="#1c1a17" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+  <text x="116" y="62" fill="#fbefc7" font-family="Georgia,serif" font-size="38" font-weight="700">OhmGo</text>
+  <text x="119" y="88" fill="#e9d9a8" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="3">ELECTRONICS FOR YOU</text>
+</svg>
